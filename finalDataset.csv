@@ -1,0 +1,255 @@
+	title	ref	typeBien	ville	price	surface	pieces	chambres	cuisine	garage	surface_terrain	nbSalleBain	balcon	terrace	jardin	classEnergy	gazEmission
+0	Annonce : Vente Maison Saumur (49400) 175 m² (347 000 €) 992769562598	992769562598	Maison	Saumur	347000.0	175.0	5.0	0.0	Oui	Oui	10222.0	0	Non	Non	Non	NC	NC
+1	Annonce : Vente Maison Nogentel (02400) 160 m² (262 000 €) 992769562567	992769562567	Maison	Nogentel	262000.0	160.0	6.0	0.0	Oui	Non	13312.0	0	Non	Non	Non	C	A
+2	Annonce : Vente Maison Château-Landon (77570) 106 m² (210 000 €) 992769501916	992769501916	Maison	ChteauLandon	210000.0	106.0	6.0	0.0	Oui	Oui	4512.0	0	Non	Non	Non	E	B
+3	Annonce : Vente Maison Grabels (34790) 97 m² (425 000 €) 992769471605	992769471605	Maison	Grabels	425000.0	97.0	4.0	0.0	Oui	Oui	4002.0	0	Non	Non	Non	C	A
+5	Annonce : Vente Maison Nanteau-sur-Lunain (77710) 184 m² (459 000 €) 992769289398	992769289398	Maison	NanteausurLunain	459000.0	184.0	7.0	0.0	Oui	Oui	26092.0	0	Non	Non	Non	D	B
+6	Annonce : Vente Maison Grandvillars (90600) 92 m² (157 000 €) 992769318892	992769318892	Maison	Grandvillars	157000.0	92.0	4.0	0.0	Oui	Oui	2942.0	0	Non	Non	Non	F	E
+7	Annonce : Vente Maison Nogent-le-Rotrou (28400) 74 m² (59 000 €) 992769174379	992769174379	Maison	NogentleRotrou	59000.0	74.0	4.0	0.0	Oui	Non	752.0	0	Non	Non	Non	E	E
+8	Annonce : Vente Maison Villiers-sur-Morin (77580) 80 m² (175 000 €) 992769338361	992769338361	Maison	VillierssurMorin	175000.0	80.0	4.0	0.0	Oui	Oui	372.0	0	Non	Non	Non	F	F
+9	Annonce : Vente Maison Avignon (84000) 200 m² (725 000 €) 992769172568	992769172568	Maison	Avignon	725000.0	200.0	6.0	0.0	Oui	Non	1412.0	0	Non	Non	Non	E	D
+10	Annonce : Vente Maison Souvigné (79800) 105 m² (224 000 €) 992769200834	992769200834	Maison	Souvign	224000.0	105.0	5.0	0.0	Oui	Non	9332.0	0	Non	Non	Non	B	A
+11	Annonce : Vente Maison Saint-Égrève (38120) 153 m² (630 000 €) 992768198582	992768198582	Maison	Saintgrve	630000.0	153.0	6.0	0.0	Oui	Oui	9602.0	0	Non	Non	Non	C	D
+13	Annonce : Vente Maison Nanterre (92000) 164 m² (940 000 €) 992769679780	992769679780	Maison	Nanterre	940000.0	164.0	6.0	0.0	Oui	Non	3902.0	0	Non	Non	Non	A	NC
+14	Annonce : Vente Maison Nanterre (92000) 152 m² (860 000 €) 992769679782	992769679782	Maison	Nanterre	860000.0	152.0	7.0	0.0	Oui	Non	3902.0	0	Non	Non	Non	A	NC
+15	Annonce : Vente Maison Vielmur-sur-Agout (81570) 103 m² (250 000 €) 992767715112	992767715112	Maison	VielmursurAgout	250000.0	103.0	4.0	0.0	Non	Non	367772.0	0	Non	Non	Non	E	F
+16	Annonce : Vente Maison Saintes (17100) 57 m² (61 000 €) 992767653258	992767653258	Maison	Saintes	61000.0	57.0	3.0	0.0	Oui	Non	382.0	0	Non	Non	Non	E	B
+18	Annonce : Vente Maison Saint-Aubin-la-Plaine (85210) 141 m² (159 000 €) 992766897768	992766897768	Maison	SaintAubinlaPlaine	159000.0	141.0	4.0	0.0	Oui	Non	13902.0	0	Non	Non	Non	F	C
+19	▷ Appartement en vente • Gérardmer • 62,88 m² • 199 000 €	7880093	Appartement	Gérardmer	199000.0	63.0	3.0	1.0		1		2					
+20	▷ Maison en vente • Gerbépal • 336 m² • 265 000 €	7880092	Maison	Gerbépal	265000.0	336.0	11.0	6.0		2		0					
+21	▷ Maison en vente • Gérardmer • 336 m² • 265 000 €	7880091	Maison	Gérardmer	265000.0	336.0	11.0	6.0		2		0					
+23	▷ Appartement en vente • Gérardmer • 61 m² • 200 000 €	7880089	Appartement	Gérardmer	200000.0	61.0	3.0	2.0		1		1					
+25	▷ Maison en vente • Rombas • 196 m² • 368 999 €	7880082	Maison	Rombas	368999.0	196.0	6.0	4.0		0		0					
+26	▷ Maison en vente • Ennevelin • 79 m² • 259 000 €	7880080	Maison	Ennevelin	259000.0	79.0	5.0	3.0		1		1					
+27	▷ Maison en vente • Woippy • 111 m² • 293 500 €	7880075	Maison	Woippy	293500.0	111.0	5.0	4.0		2		1					
+28	▷ Maison individuelle en vente • Réhon • 171 m² • 345 000 €	7880070	Maison	Réhon	345000.0	171.0	6.0	4.0		2		0					
+29	▷ Maison individuelle en vente • Ottange • 100 m² • 420 000 €	7880069	Maison	Ottange	420000.0	100.0	6.0	3.0		3		0					
+30	▷ Maison en vente • Savigny-le-Temple • 102 m² • 289 500 €	7879988	Maison	Savigny-le-Temple	289500.0	102.0	5.0	3.0		0		0					
+31	▷ Maison en vente • La Machine • 47 m² • 19 300 €	7879987	Maison	La Machine	19300.0	47.0	3.0	1.0		0		0					
+32	▷ Maison en vente • Coulanges-la-Vineuse • 39 m² • 52 300 €	7879986	Maison	Coulanges-la-Vineuse	52300.0	39.0	2.0	1.0		0		0					
+33	▷ Appartement en vente • Fréjus • 46 m² • 166 000 €	7879985	Appartement	Fréjus	166000.0	46.0	2.0	1.0		0		0					
+34	▷ Maison en vente • Déville-lès-Rouen • 88 m² • 210 000 €	7879984	Maison	Déville-lès-Rouen	210000.0	88.0	4.0	2.0		0		0					
+35	▷ Maison en vente • Saint-Jean-de-Védas • 117 m² • 560 000 €	7879983	Maison	Saint-Jean-de-Védas	560000.0	117.0	5.0	4.0		0		0					
+36	▷ Maison en vente • Beauvais-sur-Matha • 163 m² • 164 000 €	7879982	Maison	Beauvais-sur-Matha	164000.0	163.0	6.0	4.0		0		0					
+37	▷ Maison en vente • Muides-sur-Loire • 92 m² • 149 000 €	7879981	Maison	Muides-sur-Loire	149000.0	92.0	4.0	2.0		0		0					
+38	▷ Maison en vente • Civrieux-d'Azergues • 115 m² • 569 000 €	7879979	Maison	Civrieux-d'Azergues	569000.0	115.0	4.0	3.0		0		0					
+39	▷ Appartement en vente • Paris • 42 m² • 390 000 €	7879978	Appartement	Paris	390000.0	42.0	2.0	1.0		0		0					
+40	▷ Maison en vente • Écouflant • 89 m² • 234 900 €	7879976	Maison	Écouflant	234900.0	89.0	4.0	3.0		0		0					
+41	▷ Maison en vente • Méry-sur-Marne • 42 m² • 58 500 €	7879974	Maison	Méry-sur-Marne	58500.0	42.0	3.0	2.0		0		0					
+43	▷ Immeuble de rapport en vente • Morhange • 322 m² • 140 000 €	7879968	Immeuble	Morhange	140000.0	322.0	6.0	5.0		1		0					
+44	▷ Maison en vente • Audun-le-Tiche • 85 m² • 168 000 €	7879966	Maison	Audun-le-Tiche	168000.0	85.0	3.0	2.0		0		0					
+45	▷ Maison en vente • Frouard • 115 m² • 189 000 €	7879965	Maison	Frouard	189000.0	115.0	4.0	3.0		1		0					
+46	▷ Maison en vente • Raucourt • 118 m² • 268 000 €	7879964	Maison	Raucourt	268000.0	118.0	5.0	4.0		1		0					
+47	▷ Maison en vente • Pagny-sur-Moselle • 280 m² • 615 000 €	7879963	Maison	Pagny-sur-Moselle	615000.0	280.0	8.0	5.0		1		0					
+48	▷ Maison en vente • Florange • 191 m² • 549 000 €	7879962	Maison	Florange	549000.0	191.0	6.0	3.0		1		0					
+49	▷ Maison en vente • Villerupt • 156 m² • 378 000 €	7879961	Maison	Villerupt	378000.0	156.0	7.0	6.0		0		0					
+50	▷ Maison en vente • Longuyon • 155 m² • 265 000 €	7879960	Maison	Longuyon	265000.0	155.0	6.0	5.0		0		0					
+52	▷ Maison en vente • Rochesson • 200 m² • 440 000 €	7879957	Maison	Rochesson	440000.0	200.0	5.0	4.0		1		0					
+53	▷ Appartement en vente • Metz • 75 m² • 179 000 €	7879956	Appartement	Metz	179000.0	75.0	3.0	2.0		0		0					
+54	▷ Maison en vente • Landonvillers • 185 m² • 290 000 €	7879955	Maison	Landonvillers	290000.0	185.0	4.0	3.0		1		0					
+55	▷ Maison en vente • Nancy • 132 m² • 369 000 €	7879954	Maison	Nancy	369000.0	132.0	5.0	4.0		0		0					
+56	▷ Appartement en vente • Florange • 90 m² • 159 000 €	7879953	Appartement	Florange	159000.0	90.0	4.0	3.0		2		0					
+57	▷ Maison en vente • Moriville • 180 m² • 95 000 €	7879952	Maison	Moriville	95000.0	180.0	5.0	4.0		0		0					
+58	▷ Maison en vente • Réhon • 255 m² • 459 000 €	7879951	Maison	Réhon	459000.0	255.0	9.0	6.0		1		0					
+59	▷ Maison en vente • Réhon • 75 m² • 159 000 €	7879950	Maison	Réhon	159000.0	75.0	3.0	2.0		0		0					
+60	▷ Maison en vente • Sainte-Ruffine • 130 m² • 234 000 €	7879949	Maison	Sainte-Ruffine	234000.0	130.0	4.0	3.0		0		0					
+61	▷ Appartement en vente • Montigny-lès-Metz • 99 m² • 275 000 €	7879948	Appartement	Montigny-lès-Metz	275000.0	99.0	4.0	3.0		1		0					
+62	▷ Maison en vente • Dommartin-lès-Toul • 175 m² • 350 000 €	7879947	Maison	Dommartin-lès-Toul	350000.0	175.0	6.0	3.0		1		0					
+63	▷ Appartement en vente • Metz • 88 m² • 169 000 €	7879946	Appartement	Metz	169000.0	88.0	4.0	3.0		1		0					
+64	▷ Maison en vente • Richardménil • 142 m² • 469 000 €	7879945	Maison	Richardménil	469000.0	142.0	5.0	4.0		1		0					
+65	▷ Maison en vente • Trieux • 99 m² • 366 000 €	7879944	Maison	Trieux	366000.0	99.0	4.0	3.0		1		0					
+66	▷ Maison en vente • Ennery • 262 m² • 640 000 €	7879943	Maison	Ennery	640000.0	262.0	10.0	5.0		1		0					
+67	▷ Maison en vente • Grindorff-Bizing • 200 m² • 299 000 €	7879942	Maison	Grindorff-Bizing	299000.0	200.0	8.0	7.0		1		0					
+68	▷ Immeuble de rapport en vente • Thionville • 340 m² • 595 000 €	7879941	Immeuble	Thionville	595000.0	340.0	8.0	7.0		0		0					
+69	▷ Appartement en vente • Laxou • 66 m² • 128 000 €	7879940	Appartement	Laxou	128000.0	66.0	3.0	2.0		0		0					
+70	▷ Appartement en vente • Haucourt-Moulaine • 76 m² • 220 000 €	7879934	Appartement	Haucourt-Moulaine	220000.0	76.0	5.0	4.0		0		0					
+71	▷ Maison en vente • Baslieux • 108 m² • 385 000 €	7879932	Maison	Baslieux	385000.0	108.0	6.0	4.0		2		0					
+73	▷ Appartement en vente • Longwy • 54 m² • 156 000 €	7879930	Appartement	Longwy	156000.0	54.0	2.0	1.0		0		0					
+74	▷ Appartement en vente • Longwy • 55 m² • 165 000 €	7879929	Appartement	Longwy	165000.0	55.0	2.0	1.0		0		0					
+77	▷ Maison en vente • Homécourt • 70 m² • 75 500 €	7879923	Maison	Homécourt	75500.0	70.0	3.0	2.0		1		0					
+78	▷ Appartement en vente • Montigny-lès-Metz • 110 m² • 249 000 €	7879898	Appartement	Montigny-lès-Metz	249000.0	110.0	6.0	4.0		1		1					
+79	▷ Maison en vente • Maidières • 185,42 m² • 169 800 €	7879891	Maison	Maidières	169800.0	185.0	6.0	4.0		1		2					
+80	▷ Appartement en vente • Metz • 65,9 m² • 235 000 €	7879890	Appartement	Metz	235000.0	66.0	2.0	1.0		1		0					
+81	▷ Maison en vente • Pont-à-Mousson • 144 m² • 275 000 €	7879888	Maison	Pont-à-Mousson	275000.0	144.0	5.0	3.0		1		3					
+82	▷ Maison en vente • Morville-sur-Seille • 200 m² • 280 000 €	7879887	Maison	Morville-sur-Seille	280000.0	200.0	9.0	6.0		2		0					
+83	▷ Maison en vente • Morville-sur-Seille • 116 m² • 235 000 €	7879886	Maison	Morville-sur-Seille	235000.0	116.0	6.0	3.0		2		0					
+84	▷ Appartement en vente • Pont-à-Mousson • 74,14 m² • 95 480 €	7879885	Appartement	Pont-à-Mousson	95480.0	74.0	3.0	2.0		1		0					
+85	▷ Maison en vente • Pont-à-Mousson • 113,19 m² • 189 000 €	7879884	Maison	Pont-à-Mousson	189000.0	113.0	5.0	3.0		1		1					
+86	▷ Maison en vente • Fontoy • 157 m² • 385 000 €	7879848	Maison	Fontoy	385000.0	157.0	7.0	5.0		3		2					
+87	▷ Maison en vente • La Bresse • 250 m² • 575 000 €	7879768	Maison	La Bresse	575000.0	250.0	6.0	3.0		2		0					
+88	▷ Maison en vente • Kédange-sur-Canner • 101,2 m² • 299 000 €	7879767	Maison	Kédange-sur-Canner	299000.0	101.0	5.0	2.0		1		2					
+90	▷ Maison en vente • Cosnes-et-Romain • 200 m² • 720 000 €	7873848	Maison	Cosnes-et-Romain	720000.0	200.0	10.0	5.0		9		2					
+91	▷ Maison individuelle en vente • Rédange • 108 m² • 399 500 €	7879579	Maison	Rédange	399500.0	108.0	5.0	3.0		0		0					
+92	▷ Appartement en vente • Montigny-lès-Metz • 73 m² • 172 000 €	7879552	Appartement	Montigny-lès-Metz	172000.0	73.0	4.0	2.0		1		0					
+93	▷ Maison en vente • Pournoy-la-Grasse • 122 m² • 380 000 €	7879542	Maison	Pournoy-la-Grasse	380000.0	122.0	5.0	3.0		1		2					
+95	Appartement - 3 pièces - 67 m² - Castanet-Tolosan - 31320	10236	Appartement	Castanet-Tolosan	211000.0	67.0	3.0	2.0	Oui	Oui	0.0	1	Non	Oui	Non	C	D
+96	Maison - 5 pièces - 155.7 m² - Toulouse - 31300	7710	Maison	Toulouse	595000.0	155.0	5.0	4.0	Oui	Non	13370.0	1	Non	Non	Non	E	E
+97	Loft/Atelier/Duplex - 5 pièces - 100 m² - Mantes-la-Jolie - 78200	10240	Loft/Atelier/Duplex	Mantes-la-Jolie	410000.0	100.0	5.0	4.0	Oui	Oui	10078.0	1	Oui	Oui	Non	C	C
+98	Loft/Atelier/Duplex - 3 pièces - 140 m² - Montreuil - 93100	5106	Loft/Atelier/Duplex	Montreuil	1040000.0	140.0	3.0	2.0	Oui	Non	0.0	1	Non	Oui	Non	none	none
+99	Appartement - 3 pièces - 58 m² - Aubervilliers - 93300	10238	Appartement	Aubervilliers	190000.0	58.0	3.0	2.0	Non	Non	0.0	0	Non	Non	Non	none	none
+101	Appartement - 3 pièces - 73.79 m² - La Garenne-Colombes - 92250	10232	Appartement	La Garenne-Colombes	520000.0	73.0	3.0	2.0	Oui	Non	7379.0	0	Non	Non	Non	F	F
+102	Appartement - 2 pièces - 51.25 m² - Bussy-Saint-Georges - 77600	10220	Appartement	Bussy-Saint-Georges	254600.0	51.0	2.0		Non	Non	0.0	0	Non	Non	Non	none	none
+103	Appartement - 5 pièces - 127 m² - Asnières-sur-Seine - 92600	6301	Appartement	Asnières-sur-Seine	990000.0	127.0	5.0	3.0	Oui	Oui	0.0	0	Non	Non	Non	D	E
+104	Appartement - 2 pièces - 51 m² - Paris - 75116	10225	Appartement	Paris	699500.0	51.0	2.0	1.0	Oui	Non	0.0	0	Non	Oui	Non	F	G
+105	Appartement - 7 pièces - 158 m² - Paris - 75016	10233	Appartement	Paris	2045000.0	158.0	7.0	5.0	Oui	Non	15780.0	1	Oui	Non	Non	E	E
+106	Appartement - 2 pièces - 50 m² - Paris - 75016	10234	Appartement	Paris	630000.0	50.0	2.0	1.0	Oui	Non	47.0	0	Oui	Oui	Non	E	E
+107	Appartement - 2 pièces - 37 m² - Paris - 75016	8826	Appartement	Paris	288000.0	37.0	2.0	1.0	Oui	Non	1872.0	0	Non	Non	Non	D	C
+108	Appartement - 3 pièces - 63 m² - Aubergenville - 78410	9870	Appartement	Aubergenville	135000.0	63.0	3.0	2.0	Oui	Non	0.0	1	Non	Non	Non	D	D
+109	Maison - 6 pièces - 150 m² - Houilles - 78800	10230	Maison	Houilles	520000.0	150.0	6.0	4.0	Oui	Oui	0.0	1	Non	Oui	Oui	none	none
+110	Appartement - 3 pièces - 55 m² - Paris - 75020	10202	Appartement	Paris	399000.0	55.0	3.0	2.0	Oui	Non	38.0	0	Non	Non	Non	G	C
+111	Maison - 5 pièces - 105 m² - Chaumont-en-Vexin - 60240	10231	Maison	Chaumont-en-Vexin	249956.0	105.0	5.0	3.0	Oui	Oui	0.0	1	Non	Oui	Oui	none	none
+112	Maison - 10 pièces - 270 m² - Chaumont-en-Vexin - 60240	10227	Maison	Chaumont-en-Vexin	368250.0	270.0	10.0	5.0	Oui	Oui	0.0	2	Non	Oui	Oui	none	none
+113	Maison - 5 pièces - 135 m² - Carcassonne - 11000	10229	Maison	Carcassonne	269900.0	135.0	5.0	4.0	Oui	Non	0.0	1	Non	Non	Non	none	none
+114	Maison - 4 pièces - 104.52 m² - Mantes-la-Ville - 78711	9873	Maison	Mantes-la-Ville	233600.0	104.0	4.0	3.0	Oui	Oui	0.0	1	Oui	Non	Non	D	D
+117	Appartement - 4 pièces - 78 m² - Mantes-la-Jolie - 78200	10203	Appartement	Mantes-la-Jolie	278000.0	78.0	4.0	2.0	Oui	Non	7854.0	1	Non	Non	Non	C	A
+118	Maison - 7 pièces - 197 m² - Toulouse - 31300	10212	Maison	Toulouse	950000.0	197.0	7.0	4.0	Oui	Non	0.0	0	Non	Non	Non	none	none
+120	Maison - 3 pièces - 67 m² - Paris - 75020	10226	Maison	Paris	595000.0	67.0	3.0	1.0	Oui	Non	6255.0	0	Oui	Oui	Non	F	C
+121	Maison - 5 pièces - 105 m² - Éragny-sur-Epte - 60590	10142	Maison	Éragny-sur-Epte	254380.0	105.0	5.0	4.0	Oui	Non	0.0	1	Non	Oui	Oui	none	none
+122	Maison - 5 pièces - 150 m² - Fay-les-Étangs - 60240	10182	Maison	Fay-les-Étangs	316900.0	150.0	5.0	3.0	Oui	Non	0.0	1	Non	Oui	Oui	D	A
+123	Maison - 4 pièces - 63.7 m² - Éragny-sur-Epte - 60590	10199	Maison	Éragny-sur-Epte	144970.0	63.0	4.0	2.0	Oui	Non	0.0	0	Non	Oui	Non	none	none
+124	Maison - 5 pièces - 190.74 m² - Éragny-sur-Epte - 60590	10196	Maison	Éragny-sur-Epte	335000.0	190.0	5.0	3.0	Oui	Non	0.0	0	Non	Non	Oui	none	none
+125	Maison - 5 pièces - 80.5 m² - Chaumont-en-Vexin - 60240	9291	Maison	Chaumont-en-Vexin	229265.0	80.0	5.0	3.0	Oui	Non	0.0	1	Non	Oui	Oui	D	D
+126	Maison - 7 pièces - 127 m² - Limay - 78520	9739	Maison	Limay	337000.0	127.0	7.0	4.0	Oui	Non	0.0	1	Non	Oui	Oui	none	none
+127	Appartement - 4 pièces - 88 m² - Mantes-la-Jolie - 78200	4076	Appartement	Mantes-la-Jolie	349500.0	88.0	4.0	3.0	Oui	Oui	0.0	1	Non	Oui	Non	B	B
+128	Appartement - 2 pièces - 44 m² - Wissous - 91320	9751	Appartement	Wissous	210000.0	44.0	2.0	1.0	Oui	Oui	0.0	1	Non	Non	Non	none	none
+129	Maison - 4 pièces - 81 m² - Lille - 59160	10209	Maison	Lille	315000.0	81.0	4.0	3.0	Oui	Oui	0.0	1	Non	Non	Oui	C	C
+130	Appartement - 2 pièces - 33.8 m² - Paris - 75020	10200	Appartement	Paris	285000.0	33.0	2.0	1.0	Oui	Non	3380.0	0	Non	Non	Non	G	C
+131	Maison - 6 pièces - 96.5 m² - Longjumeau - 91160	10205	Maison	Longjumeau	388500.0	96.0	6.0	4.0	Oui	Oui	0.0	1	Non	Oui	Oui	B	A
+132	Appartement - 3 pièces - 66.09 m² - Marly-le-Roi - 78160	10201	Appartement	Marly-le-Roi	285600.0	66.0	3.0	2.0	Oui	Non	6609.0	1	Oui	Non	Non	D	D
+133	Appartement - 3 pièces - 67.01 m² - Paris - 75020	10198	Appartement	Paris	680000.0	67.0	3.0	2.0	Oui	Non	0.0	0	Oui	Non	Non	D	A
+134	Appartement - 3 pièces - 69.82 m² - Marly-le-Roi - 78160	10194	Appartement	Marly-le-Roi	265000.0	69.0	3.0	2.0	Oui	Non	6982.0	1	Oui	Non	Non	D	D
+136	Appartement - 3 pièces - 75 m² - Chelles - 77500	10187	Appartement	Chelles	305100.0	75.0	3.0	3.0	Oui	Non	0.0	0	Non	Non	Non	none	none
+137	Appartement - 3 pièces - 67.21 m² - Chelles - 77500	10188	Appartement	Chelles	315700.0	67.0	3.0		Oui	Non	0.0	0	Non	Non	Non	none	none
+139	Appartement - 3 pièces - 65.43 m² - Bry-sur-Marne - 94360	10181	Appartement	Bry-sur-Marne	299000.0	65.0	3.0	2.0	Oui	Oui	5752.0	1	Non	Non	Non	E	E
+140	Maison - 4 pièces - 89.59 m² - Pontault-Combault - 77340	10151	Maison	Pontault-Combault	364900.0	89.0	4.0	3.0	Oui	Non	0.0	1	Non	Oui	Oui	D	B
+142	Appartement - 3 pièces - 56 m² - Aubervilliers - 93300	10193	Appartement	Aubervilliers	258000.0	56.0	3.0	2.0	Oui	Oui	56.0	1	Oui	Non	Non	B	C
+143	Maison - 5 pièces - 103.49 m² - Roissy-en-Brie - 77680	10190	Maison	Roissy-en-Brie	355000.0	103.0	5.0	3.0	Oui	Oui	0.0	1	Non	Oui	Oui	D	D
+144	Maison - 5 pièces - 105 m² - Tourcoing - 59200	10178	Maison	Tourcoing	120000.0	105.0	5.0	4.0	Non	Non	0.0	0	Non	Non	Non	none	none
+145	Appartement - 4 pièces - 74.79 m² - Mennecy - 91540	10174	Appartement	Mennecy	284000.0	74.0	4.0	3.0	Oui	Non	0.0	1	Non	Non	Non	B	C
+147	Maison - 6 pièces - 116 m² - Le Coudray-Montceaux - 91830	10183	Maison	Le Coudray-Montceaux	389000.0	116.0	6.0	4.0	Oui	Non	0.0	0	Non	Non	Non	none	none
+148	Appartement - 2 pièces - 40 m² - Mantes-la-Jolie - 78200	10176	Appartement	Mantes-la-Jolie	150000.0	40.0	2.0	1.0	Oui	Oui	0.0	1	Non	Oui	Oui	E	B
+149	Appartement - 3 pièces - 62.58 m² - Limay - 78520	10173	Appartement	Limay	149000.0	62.0	3.0	2.0	Oui	Non	6258.0	0	Oui	Non	Non	F	B
+150	Appartement - 3 pièces - 57.75 m² - Quincy-sous-Sénart - 91480	10186	Appartement	Quincy-sous-Sénart	219500.0	57.0	3.0	2.0	Oui	Oui	0.0	0	Oui	Non	Non	B	C
+151	Maison - 5 pièces - 83.39 m² - Étrépagny - 27150	10189	Maison	Étrépagny	234040.0	83.0	5.0	3.0	Oui	Non	0.0	1	Non	Oui	Oui	C	C
+152	Maison - 5 pièces - 111.11 m² - Gournay-en-Bray - 76220	10185	Maison	Gournay-en-Bray	237375.0	111.0	5.0	4.0	Oui	Non	0.0	1	Non	Oui	Oui	none	none
+153	Appartement - 6 pièces - 115 m² - Maisons-Laffitte - 78600	10179	Appartement	Maisons-Laffitte	630000.0	115.0	6.0	3.0	Oui	Oui	115.0	1	Oui	Non	Non	E	E
+154	Appartement - 2 pièces - 33 m² - Paris - 75007	10192	Appartement	Paris	525000.0	33.0	2.0	1.0	Oui	Non	3267.0	0	Non	Non	Non	F	C
+155	Appartement - 2 pièces - 23 m² - Paris - 75018	10180	Appartement	Paris	295000.0	23.0	2.0	1.0	Oui	Non	2301.0	0	Non	Non	Non	E	B
+156	Appartement - 3 pièces - 60 m² - Paris - 75016	10184	Appartement	Paris	749000.0	60.0	3.0	2.0	Oui	Non	0.0	0	Non	Non	Non	G	F
+157	Appartement - 4 pièces - 88.86 m² - Paris - 75020	9582	Appartement	Paris	625000.0	88.0	4.0	3.0	Oui	Non	8886.0	1	Oui	Non	Non	F	E
+158	Appartement - 4 pièces - 71.04 m² - La Garenne-Colombes - 92250	10191	Appartement	La Garenne-Colombes	460000.0	71.0	4.0	3.0	Oui	Non	7104.0	0	Oui	Non	Non	D	D
+159	Maison - 4 pièces - 89.6 m² - Juziers - 78820	8789	Maison	Juziers	249000.0	89.0	4.0	3.0	Oui	Non	0.0	0	Non	Oui	Oui	F	F
+160	Appartement - 4 pièces - 72 m² - Mantes-la-Ville - 78711	10153	Appartement	Mantes-la-Ville	142000.0	72.0	4.0	2.0	Oui	Non	72.0	0	Non	Non	Non	D	D
+161	Loft/Atelier/Duplex - 4 pièces - 87 m² - Montpellier - 34070	10159	Loft/Atelier/Duplex	Montpellier	359000.0	87.0	4.0	3.0	Oui	Non	87.0	1	Non	Non	Oui	C	D
+162	Maison - 7 pièces - 128 m² - Mennecy - 91540	10165	Maison	Mennecy	416000.0	128.0	7.0	5.0	Oui	Non	0.0	1	Non	Non	Non	none	none
+163	Maison - 3 pièces - 70.92 m² - La Queue-en-Brie - 94510	10114	Maison	La Queue-en-Brie	278000.0	70.0	3.0	2.0	Oui	Non	7092.0	0	Non	Oui	Non	E	B
+164	Maison - 5 pièces - 108.27 m² - Laon - 02000	10155	Maison	Laon	129500.0	108.0	5.0	4.0	Oui	Oui	9779.0	1	Non	Oui	Oui	none	none
+165	Appartement - 3 pièces - 63 m² - Toulouse - 31200	10157	Appartement	Toulouse	171300.0	63.0	3.0	2.0	Non	Non	0.0	1	Non	Oui	Non	none	none
+166	Appartement - 2 pièces - 52.4 m² - Léguevin - 31490	10171	Appartement	Léguevin	109500.0	52.0	2.0	1.0	Oui	Non	5240.0	1	Non	Non	Non	F	C
+167	Maison - 7 pièces - 225 m² - Val d'Orger - 27440	10141	Maison	Val d'Orger	473000.0	225.0	7.0	5.0	Oui	Non	0.0	1	Non	Oui	Oui	D	B
+170	Maison - 5 pièces - 101.33 m² - Bazincourt-sur-Epte - 27140	10156	Maison	Bazincourt-sur-Epte	274178.0	101.0	5.0	4.0	Oui	Non	0.0	1	Non	Oui	Oui	D	B
+171	Maison - 7 pièces - 135.72 m² - Étrépagny - 27150	10167	Maison	Étrépagny	213200.0	135.0	7.0	4.0	Oui	Non	0.0	1	Non	Oui	Oui	F	C
+172	Maison - 8 pièces - 168 m² - Longchamps - 27150	10168	Maison	Longchamps	286140.0	168.0	8.0	5.0	Oui	Non	0.0	1	Non	Oui	Oui	none	none
+176	Maison - 5 pièces - 93.8 m² - Bailleul - 59270	9946	Maison	Bailleul	205500.0	93.0	5.0	3.0	Oui	Oui	0.0	1	Non	Oui	Oui	B	A
+177	Maison - 6 pièces - 134.65 m² - Osny - 95520	10105	Maison	Osny	555840.0	134.0	6.0	4.0	Oui	Oui	0.0	2	Non	Oui	Oui	D	D
+178	Maison - 3 pièces - 74 m² - La Crau - 83260	10146	Maison	La Crau	341500.0	74.0	3.0	2.0	Oui	Non	0.0	1	Non	Oui	Oui	C	A
+179	Appartement - 3 pièces - 60.25 m² - Massy - 91300	6649	Appartement	Massy	299500.0	60.0	3.0	2.0	Oui	Oui	6025.0	1	Oui	Non	Non	B	C
+180	Maison - 6 pièces - 99.06 m² - Saint-Ouen-l'Aumône - 95310	9956	Maison	Saint-Ouen-l'Aumône	471600.0	99.0	6.0	4.0	Oui	Oui	0.0	0	Non	Non	Oui	G	G
+181	Maison - 5 pièces - 99 m² - Mennecy - 91540	10154	Maison	Mennecy	299000.0	99.0	5.0	4.0	Oui	Non	0.0	1	Non	Non	Non	none	none
+182	Appartement - 4 pièces - 91 m² - Levallois-Perret - 92300	10152	Appartement	Levallois-Perret	887000.0	91.0	4.0	2.0	Oui	Oui	0.0	1	Oui	Non	Non	C	D
+183	Appartement - 4 pièces - 74.05 m² - Paris - 75020	10144	Appartement	Paris	650000.0	74.0	4.0	2.0	Oui	Oui	7405.0	1	Oui	Non	Non	D	D
+184	Maison - 7 pièces - 186 m² - Trèbes - 11800	10147	Maison	Trèbes	139900.0	186.0	7.0	4.0	Oui	Non	0.0	0	Oui	Non	Oui	none	none
+185	Appartement - 2 pièces - 41 m² - Sète - 34200	10145	Appartement	Sète	129000.0	41.0	2.0	1.0	Oui	Non	4006.0	0	Non	Non	Non	D	D
+186	Maison - 5 pièces - 94.53 m² - Roissy-en-Brie - 77680	10140	Maison	Roissy-en-Brie	339990.0	94.0	5.0	4.0	Oui	Oui	0.0	1	Non	Oui	Oui	D	D
+187	Maison - 4 pièces - 68.25 m² - Osny - 95520	10047	Maison	Osny	367600.0	68.0	4.0	2.0	Oui	Oui	6825.0	1	Oui	Non	Oui	F	C
+188	Appartement - 3 pièces - 72.49 m² - La Celle-Saint-Cloud - 78170	10035	Appartement	La Celle-Saint-Cloud	280000.0	72.0	3.0	2.0	Oui	Oui	7249.0	0	Non	Oui	Non	E	F
+189	Appartement - 2 pièces - 40 m² - Saint-Pierre-du-Perray - 91280	10135	Appartement	Saint-Pierre-du-Perray	144000.0	40.0	2.0	1.0	Oui	Oui	40.0	1	Oui	Oui	Non	B	C
+190	Maison - 4 pièces - 132.94 m² - Romainville - 93230	10138	Maison	Romainville	715000.0	132.0	4.0	3.0	Oui	Oui	0.0	1	Oui	Oui	Oui	E	E
+191	Appartement - 2 pièces - 42 m² - Colomiers - 31770	10136	Appartement	Colomiers	130000.0	42.0	2.0	1.0	Oui	Non	0.0	1	Non	Oui	Non	D	A
+192	Appartement - 3 pièces - 61.03 m² - Boussy-Saint-Antoine - 91800	10111	Appartement	Boussy-Saint-Antoine	213000.0	61.0	3.0	2.0	Oui	Non	0.0	1	Non	Oui	Non	none	none
+193	Appartement - 4 pièces - 82 m² - Chilly-Mazarin - 91380	10137	Appartement	Chilly-Mazarin	230000.0	82.0	4.0	3.0	Oui	Oui	8199.0	1	Oui	Non	Non	E	E
+194	Maison - 5 pièces - 102 m² - Balaruc-les-Bains - 34540	10123	Maison	Balaruc-les-Bains	495000.0	102.0	5.0	4.0	Oui	Non	0.0	1	Oui	Oui	Oui	F	C
+195	Appartement - 2 pièces - 38.26 m² - Pantin - 93500	9404	Appartement	Pantin	240000.0	38.0	2.0	1.0	Oui	Non	3826.0	0	Non	Non	Non	E	B
+196	Appartement - 3 pièces - 60 m² - Guignes - 77390	10119	Appartement	Guignes	192000.0	60.0	3.0	2.0	Non	Non	0.0	1	Non	Non	Non	C	C
+197	Appartement - 3 pièces - 63.72 m² - Brie-Comte-Robert - 77170	10118	Appartement	Brie-Comte-Robert	217000.0	63.0	3.0	2.0	Non	Non	0.0	1	Non	Non	Non	none	none
+198	Appartement - 3 pièces - 60 m² - Sartrouville - 78500	10039	Appartement	Sartrouville	235000.0	60.0	3.0	2.0	Oui	Oui	5940.0	1	Non	Non	Non	G	G
+199	Maison - 4 pièces - 74 m² - Tessancourt-sur-Aubette - 78250	10122	Maison	Tessancourt-sur-Aubette	237500.0	74.0	4.0	2.0	Oui	Non	0.0	1	Non	Non	Oui	none	none
+200	Appartement - 3 pièces - 62.84 m² - Cergy - 95000	10121	Appartement	Cergy	252000.0	62.0	3.0	2.0	Oui	Non	0.0	1	Oui	Non	Non	B	C
+201	Maison - 7 pièces - 202 m² - Carrières-sur-Seine - 78420	10115	Maison	Carrières-sur-Seine	799000.0	202.0	7.0	5.0	Oui	Oui	0.0	1	Non	Non	Oui	C	C
+204	Appartement - 4 pièces - 69 m² - Paris - 75020	10092	Appartement	Paris	585000.0	69.0	4.0	3.0	Oui	Non	6639.0	1	Non	Non	Non	F	E
+205	Appartement - 3 pièces - 61.01 m² - Combs-la-Ville - 77380	10127	Appartement	Combs-la-Ville	191000.0	61.0	3.0	2.0	Non	Oui	0.0	1	Non	Non	Oui	none	none
+207	Maison - 6 pièces - 120 m² - Bombon - 77720	10096	Maison	Bombon	310000.0	120.0	6.0	4.0	Non	Non	0.0	1	Non	Non	Non	E	B
+209	Appartement - 3 pièces - 71 m² - La Garenne-Colombes - 92250	10100	Appartement	La Garenne-Colombes	599000.0	71.0	3.0	2.0	Oui	Oui	7102.0	1	Non	Oui	Non	D	D
+211	Maison - 4 pièces - 90 m² - Aucamville - 31140	10098	Maison	Aucamville	323600.0	90.0	4.0	3.0	Oui	Non	0.0	1	Non	Oui	Non	none	none
+212	Maison - 4 pièces - 99 m² - Mézy-sur-Seine - 78250	10110	Maison	Mézy-sur-Seine	263750.0	99.0	4.0	2.0	Oui	Non	0.0	1	Non	Oui	Non	E	D
+213	Maison - 5 pièces - 108 m² - Colomiers - 31770	10113	Maison	Colomiers	308000.0	108.0	5.0	4.0	Oui	Non	0.0	1	Non	Non	Non	D	D
+215	Appartement - 2 pièces - 33.79 m² - Toulouse - 31200	9671	Appartement	Toulouse	103000.0	33.0	2.0	1.0	Oui	Oui	3379.0	1	Non	Non	Non	D	B
+216	Maison - 7 pièces - 145.75 m² - Parnes - 60240	10067	Maison	Parnes	399218.0	145.0	7.0	4.0	Oui	Non	0.0	0	Non	Oui	Oui	none	none
+217	Appartement - 2 pièces - 29.12 m² - Paris - 75116	10082	Appartement	Paris	345000.0	29.0	2.0	1.0	Oui	Non	2160.0	0	Non	Non	Non	E	E
+218	Appartement - 2 pièces - 43 m² - Toulouse - 31000	10054	Appartement	Toulouse	280000.0	43.0	2.0		Oui	Non	43.0	0	Non	Non	Non	F	C
+219	Maison - 11 pièces - 266 m² - Quint-Fonsegrives - 31130	10086	Maison	Quint-Fonsegrives	798000.0	266.0	11.0	6.0	Oui	Non	266.0	2	Oui	Oui	Oui	E	E
+220	Appartement - 3 pièces - 68 m² - Vernon - 27200	10101	Appartement	Vernon	190000.0	68.0	3.0	2.0	Oui	Oui	68.0	1	Oui	Non	Non	D	B
+221	Maison - 3 pièces - 54 m² - Bezons - 95870	6204	Maison	Bezons	344000.0	54.0	3.0	2.0	Oui	Oui	54.0	0	Non	Non	Oui	G	C
+222	Maison - 5 pièces - 132 m² - Le Bellay-en-Vexin - 95750	10099	Maison	Le Bellay-en-Vexin	348160.0	132.0	5.0	3.0	Oui	Non	0.0	0	Non	Oui	Oui	E	B
+223	Maison - 5 pièces - 132 m² - Épône - 78680	8470	Maison	Épône	339000.0	132.0	5.0	4.0	Oui	Non	0.0	1	Non	Non	Oui	D	E
+224	Maison - 6 pièces - 165 m² - Pamfou - 77830	10095	Maison	Pamfou	397000.0	165.0	6.0	4.0	Non	Non	0.0	0	Non	Non	Non	D	B
+226	Appartement - 4 pièces - 68 m² - Quincy-sous-Sénart - 91480	10058	Appartement	Quincy-sous-Sénart	182000.0	68.0	4.0	2.0	Non	Non	0.0	1	Non	Non	Non	E	E
+227	Maison - 4 pièces - 88 m² - Palaja - 11570	10097	Maison	Palaja	234900.0	88.0	4.0	3.0	Oui	Oui	0.0	1	Non	Oui	Oui	none	none
+228	Appartement - 4 pièces - 68 m² - Mantes-la-Ville - 78711	9755	Appartement	Mantes-la-Ville	188000.0	68.0	4.0	3.0	Oui	Oui	0.0	1	Non	Non	Non	D	D
+229	Maison - 3 pièces - 61 m² - Mormant - 77720	10091	Maison	Mormant	202000.0	61.0	3.0	2.0	Non	Non	0.0	1	Non	Non	Non	none	none
+230	Appartement - 2 pièces - 44 m² - Lille - 59000	10102	Appartement	Lille	190000.0	44.0	2.0	1.0	Oui	Non	44.0	0	Non	Non	Non	E	B
+232	Appartement - 4 pièces - 77 m² - Sète - 34200	10089	Appartement	Sète	199000.0	77.0	4.0	3.0	Oui	Non	75.0	1	Oui	Non	Non	E	E
+233	Maison - 6 pièces - 300 m² - Frontignan - 34110	10090	Maison	Frontignan	895000.0	300.0	6.0	5.0	Oui	Oui	250.0	3	Non	Oui	Non	C	C
+234	Maison - 4 pièces - 67 m² - Toulouse - 31200	10068	Maison	Toulouse	275000.0	67.0	4.0	3.0	Oui	Oui	0.0	1	Oui	Oui	Non	E	E
+235	Appartement - 4 pièces - 83.6 m² - Noisy-le-Sec - 93130	10093	Appartement	Noisy-le-Sec	447500.0	83.0	4.0	3.0	Oui	Oui	0.0	1	Non	Oui	Non	none	none
+236	Maison - 4 pièces - 84 m² - Roissy-en-Brie - 77680	10085	Maison	Roissy-en-Brie	237000.0	84.0	4.0	2.0	Oui	Oui	0.0	0	Oui	Non	Non	none	none
+237	Appartement - 3 pièces - 58 m² - Sète - 34200	10052	Appartement	Sète	185000.0	58.0	3.0	2.0	Oui	Non	5810.0	0	Oui	Non	Non	C	C
+239	Maison - 4 pièces - 79.55 m² - Saint-Ouen-l'Aumône - 95310	10075	Maison	Saint-Ouen-l'Aumône	299480.0	79.0	4.0	3.0	Oui	Oui	7955.0	0	Non	Oui	Oui	C	C
+240	Maison - 5 pièces - 100.02 m² - Étrépagny - 27150	10077	Maison	Étrépagny	192360.0	100.0	5.0	3.0	Oui	Non	0.0	0	Non	Oui	Oui	E	B
+241	Appartement - 4 pièces - 79.98 m² - Montpellier - 34000	4244	Appartement	Montpellier	249000.0	79.0	4.0	3.0	Oui	Oui	7998.0	1	Oui	Non	Non	F	F
+242	Maison - 4 pièces - 63 m² - Drancy - 93700	10053	Maison	Drancy	256000.0	63.0	4.0	3.0	Oui	Non	63.0	0	Non	Non	Non	none	none
+243	Maison - 6 pièces - 105 m² - Mennecy - 91540	10074	Maison	Mennecy	354000.0	105.0	6.0	3.0	Non	Non	0.0	1	Non	Non	Non	none	none
+244	Appartement - 4 pièces - 77.78 m² - Longjumeau - 91160	10078	Appartement	Longjumeau	189000.0	77.0	4.0	3.0	Non	Non	0.0	0	Non	Non	Non	D	D
+246	Appartement - 6 pièces - 152 m² - Boulogne-Billancourt - 92100	10076	Appartement	Boulogne-Billancourt	1150000.0	152.0	6.0	4.0	Oui	Oui	15179.0	1	Oui	Non	Non	D	D
+247	Maison - 5 pièces - 168 m² - La Crau - 83260	10073	Maison	La Crau	756000.0	168.0	5.0	4.0	Oui	Non	0.0	1	Non	Oui	Non	none	none
+248	Appartement - 3 pièces - 71.2 m² - Marly-le-Roi - 78160	10038	Appartement	Marly-le-Roi	298500.0	71.0	3.0	2.0	Oui	Oui	0.0	1	Oui	Non	Non	F	F
+249	Appartement - 2 pièces - 46 m² - Paris - 75011	10072	Appartement	Paris	500000.0	46.0	2.0	1.0	Oui	Non	0.0	0	Oui	Non	Non	D	B
+250	Appartement - 2 pièces - 60 m² - Paris - 75019	8803	Appartement	Paris	295000.0	60.0	2.0	1.0	Oui	Non	36.0	0	Non	Non	Non	none	none
+252	Appartement - 3 pièces - 80.51 m² - Marguerittes - 30320	10060	Appartement	Marguerittes	285000.0	80.0	3.0	2.0	Oui	Oui	8051.0	0	Non	Oui	Oui	C	A
+253	Maison - 6 pièces - 105 m² - Longjumeau - 91160	10063	Maison	Longjumeau	470000.0	105.0	6.0	4.0	Oui	Oui	0.0	1	Non	Non	Oui	A	A
+254	Maison - 4 pièces - 70 m² - Mantes-la-Ville - 78711	7098	Maison	Mantes-la-Ville	205000.0	70.0	4.0	3.0	Oui	Non	0.0	1	Non	Non	Oui	D	D
+255	Appartement - 4 pièces - 105 m² - Montpellier - 34070	10065	Appartement	Montpellier	285000.0	105.0	4.0	2.0	Oui	Non	105.0	1	Non	Non	Non	D	E
+256	Maison - 5 pièces - 88 m² - Conques-sur-Orbiel - 11600	9013	Maison	Conques-sur-Orbiel	104900.0	88.0	5.0	2.0	Oui	Non	0.0	1	Non	Oui	Non	E	B
+258	Maison - 4 pièces - 80 m² - Fontenay-le-Vicomte - 91540	10069	Maison	Fontenay-le-Vicomte	334000.0	80.0	4.0	2.0	Non	Non	0.0	1	Non	Non	Non	none	none
+259	Maison - 7 pièces - 144 m² - Saint-Clair-sur-Epte - 95770	10071	Maison	Saint-Clair-sur-Epte	483620.0	144.0	7.0	3.0	Oui	Non	0.0	0	Non	Oui	Oui	C	A
+260	Maison - 11 pièces - 350 m² - Montévrain - 77144	10011	Maison	Montévrain	799900.0	350.0	11.0		Non	Non	0.0	0	Non	Non	Non	E	E
+261	Loft/Atelier/Duplex - 3 pièces - 57 m² - Mantes-la-Jolie - 78200	10062	Loft/Atelier/Duplex	Mantes-la-Jolie	115000.0	57.0	3.0	1.0	Oui	Non	0.0	0	Non	Non	Non	none	none
+262	Appartement - 4 pièces - 86 m² - Pontault-Combault - 77340	10045	Appartement	Pontault-Combault	286800.0	86.0	4.0	3.0	Oui	Non	86.0	1	Non	Non	Non	C	D
+263	Maison - 6 pièces - 299.28 m² - Anthy-sur-Léman - 74200	9869	Maison	Anthy-sur-Léman	890000.0	299.0	6.0	4.0	Oui	Non	17446.0	2	Non	Oui	Oui	F	C
+264	Maison - 7 pièces - 144 m² - Chilly-Mazarin - 91380	10036	Maison	Chilly-Mazarin	565000.0	144.0	7.0		Non	Non	0.0	0	Non	Non	Non	B	A
+266	Appartement - 5 pièces - 117 m² - Boulogne-Billancourt - 92100	9598	Appartement	Boulogne-Billancourt	899000.0	117.0	5.0	3.0	Oui	Non	11630.0	0	Oui	Non	Non	D	E
+267	Maison - 6 pièces - 142 m² - La Crau - 83260	9768	Maison	La Crau	645750.0	142.0	6.0	4.0	Oui	Oui	0.0	1	Non	Oui	Oui	B	A
+268	Appartement - 3 pièces - 66.26 m² - Longjumeau - 91160	10049	Appartement	Longjumeau	170000.0	66.0	3.0	2.0	Oui	Non	0.0	1	Oui	Non	Non	none	none
+269	Maison - 4 pièces - 75.19 m² - Espéraza - 11260	9173	Maison	Espéraza	119900.0	75.0	4.0	2.0	Oui	Non	0.0	0	Non	Oui	Oui	E	D
+270	Maison - 4 pièces - 92.17 m² - Alet-les-Bains - 11580	9151	Maison	Alet-les-Bains	157900.0	92.0	4.0	3.0	Oui	Non	0.0	0	Non	Oui	Oui	E	C
+271	Maison - 6 pièces - 187 m² - Soindres - 78200	10055	Maison	Soindres	475000.0	187.0	6.0	4.0	Oui	Non	0.0	1	Non	Oui	Oui	none	none
+272	Maison - 6 pièces - 102.52 m² - Marines - 95640	10051	Maison	Marines	378000.0	102.0	6.0	4.0	Oui	Oui	0.0	0	Non	Oui	Oui	E	B
+273	Appartement - 2 pièces - 45 m² - Paris - 75016	10056	Appartement	Paris	460000.0	45.0	2.0	1.0	Oui	Non	45.0	1	Non	Non	Non	F	E
+274	Appartement - 2 pièces - 47 m² - Paris - 75020	10034	Appartement	Paris	447000.0	47.0	2.0	1.0	Oui	Non	4628.0	0	Non	Non	Non	D	B
+275	Appartement - 2 pièces - 46.21 m² - Quincy-sous-Sénart - 91480	10018	Appartement	Quincy-sous-Sénart	150000.0	46.0	2.0	1.0	Oui	Non	0.0	1	Non	Non	Non	G	G
+276	Maison - 5 pièces - 171.42 m² - Saint-Maur-des-Fossés - 94100	10037	Maison	Saint-Maur-des-Fossés	895000.0	171.0	5.0	3.0	Oui	Non	0.0	2	Non	Non	Oui	E	D
+277	Maison - 5 pièces - 120 m² - Magny-le-Hongre - 77700	10048	Maison	Magny-le-Hongre	526250.0	120.0	5.0	3.0	Oui	Non	0.0	0	Non	Oui	Oui	D	C
+278	Maison - 5 pièces - 86 m² - Dampmart - 77400	10044	Maison	Dampmart	281500.0	86.0	5.0	4.0	Oui	Non	0.0	1	Non	Non	Non	none	none
+279	Maison - 6 pièces - 141.42 m² - Hardricourt - 78250	10042	Maison	Hardricourt	453650.0	141.0	6.0	4.0	Oui	Non	0.0	2	Non	Oui	Oui	A	A
+280	Maison - 5 pièces - 80.1 m² - Jouy-le-Moutier - 95280	10043	Maison	Jouy-le-Moutier	299900.0	80.0	5.0	3.0	Oui	Non	0.0	0	Non	Oui	Oui	none	none
+281	Appartement - 3 pièces - 54 m² - Mantes-la-Jolie - 78200	10046	Appartement	Mantes-la-Jolie	167000.0	54.0	3.0	2.0	Oui	Oui	5401.0	0	Oui	Non	Non	E	B
+283	Maison - 5 pièces - 110 m² - Évry-Grégy-sur-Yerre - 77166	9937	Maison	Évry-Grégy-sur-Yerre	332000.0	110.0	5.0	3.0	Non	Non	0.0	0	Non	Non	Non	none	none
+284	Maison - 5 pièces - 147 m² - Aubervilliers - 93300	9918	Maison	Aubervilliers	525000.0	147.0	5.0	4.0	Non	Non	0.0	0	Non	Non	Non	D	D
+285	Appartement - 3 pièces - 78 m² - Levallois-Perret - 92300	10027	Appartement	Levallois-Perret	656000.0	78.0	3.0	2.0	Oui	Non	71.0	0	Oui	Non	Non	E	E
+286	Appartement - 3 pièces - 49 m² - Toulouse - 31200	9943	Appartement	Toulouse	155000.0	49.0	3.0	2.0	Non	Non	49.0	0	Non	Non	Non	none	none
+289	Maison - 4 pièces - 114 m² - Carrières-sur-Seine - 78420	10006	Maison	Carrières-sur-Seine	749000.0	114.0	4.0	2.0	Oui	Non	0.0	1	Non	Oui	Non	none	none
+290	Maison - 5 pièces - 83 m² - Cergy - 95800	10028	Maison	Cergy	358700.0	83.0	5.0	4.0	Oui	Non	0.0	1	Non	Oui	Oui	none	none
+291	Appartement - 3 pièces - 55.55 m² - Jouy-le-Moutier - 95280	10021	Appartement	Jouy-le-Moutier	180000.0	55.0	3.0	2.0	Oui	Non	0.0	1	Non	Oui	Non	D	B
+292	Appartement - 3 pièces - 68 m² - Houilles - 78800	10009	Appartement	Houilles	309000.0	68.0	3.0	2.0	Oui	Oui	0.0	1	Non	Non	Non	none	none
+293	Appartement - 4 pièces - 75.9 m² - Le Mesnil-le-Roi - 78600	9985	Appartement	Le Mesnil-le-Roi	359000.0	75.0	4.0	2.0	Oui	Oui	7590.0	0	Oui	Non	Non	D	D
+294	Maison - 5 pièces - 100 m² - Noisy-le-Grand - 93160	10026	Maison	Noisy-le-Grand	489000.0	100.0	5.0	4.0	Oui	Non	9460.0	1	Non	Non	Non	D	B
